@@ -27,3 +27,9 @@ The analysis is based on `Ice-Cream-Ratings.csv`, which contains ratings for dif
 - matplotlib
 - seaborn
 - Jupyter Notebook
+
+
+![overall_ratings_timeseries](https://github.com/user-attachments/assets/4df81b97-adbb-45c1-8a89-95a8a4580682)
+![correlation_heatmap](https://github.com/user-attachments/assets/bfe0e8d3-79bd-440f-8010-855d7b8995f6)
+![average_ratings](https://github.com/user-attachments/assets/f038ee08-8f98-4809-ae36-fb7ea74fb59e)
+
